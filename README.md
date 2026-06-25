@@ -34,4 +34,5 @@ kaggle資料集連結: https://www.kaggle.com/datasets/akshayramakrishnan28/cata
 3. 依序執行每個cell。第2個cell需上傳自己的kaggle.json，用來下載資料集。
    (若不想用Kaggle下載,也可以直接使用本repo data/資料夾中的影像，將notebook的TRAIN_DIR指向該資料夾即可。)
 
-
+## 專案成員
+- 614430026 黃舒旻
