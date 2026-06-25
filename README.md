@@ -16,7 +16,6 @@
 
 ## 專案結構
 ```
-.
 ├── README.md
 ├── LICENSE
 ├── cataract_resnet50.ipynb
