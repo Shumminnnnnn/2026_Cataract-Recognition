@@ -18,6 +18,7 @@
 ```
 ├── README.md
 ├── LICENSE
+├── cataract_resnet50 .pth
 ├── cataract_resnet50.ipynb
 └── data/
     └── train/
