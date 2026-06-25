@@ -3,7 +3,7 @@
 
 
 ## Cataract Classification with ResNet-50
-使用遷移學習 (ResNet-50) 對眼底/眼部影像進行白內障分類,區分immature(未成熟)與mature(成熟)兩類。本專案在Google Colab上以PyTorch實作,並針對小型且經過增強的資料集做了避免資料洩漏的嚴謹處理。
+使用遷移學習 (ResNet-50) 對眼底/眼部影像進行白內障分類,區分immature(未成熟白內障)與mature(成熟白內障)兩類。本專案在Google Colab上以PyTorch實作,並針對小型且經過增強的資料集做了避免資料洩漏的嚴謹處理。
 
 ## 專案特色
 - 使用ResNet-50遷移學習
@@ -18,11 +18,11 @@
 
 ├── README.md
 ├── LICENSE 
-├── cataract_resnet50.ipynb    # 主程式(Colab notebook)
+├── cataract_resnet50.ipynb    
 └── data/
     └── train/
-        ├── immature/                # 未成熟白內障影像
-        └── mature/                  # 成熟白內障影像
+        ├── immature/               
+        └── mature/                 
         
 ## 執行方法
 1. 將cataract_resnet50.ipynb上傳到Colab。
