@@ -17,17 +17,11 @@
 ## 專案結構
 
 ├── README.md
-
 ├── LICENSE 
-
 ├── cataract_resnet50.ipynb    # 主程式(Colab notebook)
-
 └── data/
-
     └── train/
-    
         ├── immature/                # 未成熟白內障影像
-        
         └── mature/                  # 成熟白內障影像
         
 ## 執行方法
