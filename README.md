@@ -15,14 +15,16 @@
 - 將訓練好的模型存成 .pth
 
 ## 專案結構
-
+```
+.
 ├── README.md
-├── LICENSE 
-├── cataract_resnet50.ipynb    
+├── LICENSE
+├── cataract_resnet50.ipynb
 └── data/
     └── train/
-        ├── immature/               
-        └── mature/                 
+        ├── immature/
+        └── mature/
+```                
         
 ## 執行方法
 1. 將cataract_resnet50.ipynb上傳到Colab。
